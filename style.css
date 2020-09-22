@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Epilogue&display=swap');
+
+footer {
+    padding: 30px;
+    background:#075475;
+}
+
+.about-footer-head {
+    padding-top:30px;
+}
+.about-footer {
+    color:#DEAE00;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 46px;
+}            
+.p-footer {
+    color:white;
+    font-family: 'Epilogue', sans-serif;
+}
+
+.follow_n_connect {
+    padding:30px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 22px;
+    color:white;
+}
+
+.fa { 
+    border-radius: 50%; 
+    padding: 5px;
+    font-size: 47px;
+    width: 52px; 
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+    
+.fa-facebook {
+    background:#DEAE00;
+    color:#075475;
+}
+.fa-linkedin {
+    background:#DEAE00;
+    color:#075475;
+}    
+.fa-instagram {
+  background:#DEAE00;
+  color:#075475;
+}
+
+@media only screen and (max-width: 768px) {
+    .siam_logo_footer ,.about_pic {
+      text-align: center;
+      padding: 20px;
+    }
+}
+
+.siam_logo_footer {
+    background:#075475 ;
+}
